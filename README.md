@@ -5,6 +5,6 @@
 >  
 
 ## 서비스 화면
-<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 08" src="https://github.com/soycong/soycong/assets/62353647/20cac4e2-689a-4d6d-b034-b9c752bd1a5b">
-<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 10" src="https://github.com/soycong/soycong/assets/62353647/426ca4b3-ecfc-4857-905d-4b261fbebb4f">
-<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 12" src="https://github.com/soycong/soycong/assets/62353647/6ab474c9-eb42-4ba8-9db1-1f2221e53016">
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 27 06" src="https://github.com/soycong/RottenLeaves_iOS/assets/62353647/1d29badd-2c55-488f-8916-4f25057a3939">
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 27 13" src="https://github.com/soycong/RottenLeaves_iOS/assets/62353647/016e02b2-2ef9-4672-b2b1-662b19b25695">
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 27 22" src="https://github.com/soycong/RottenLeaves_iOS/assets/62353647/fc5851e1-7e01-49bf-add1-0ad6dc134e71">
