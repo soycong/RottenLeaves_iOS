@@ -4,6 +4,6 @@
 <\br>
 
 ## 서비스 화면
-![인공지능융합전공_졸프PPT1](https://github.com/soycong/soycong/assets/62353647/999caa26-8c31-4b91-b89c-5cae401d882d)
-![인공지능융합전공_졸프PPT2](https://github.com/soycong/soycong/assets/62353647/6b9be7d6-c4af-46da-b56c-17a16b87fd0d)
-![인공지능융합전공_졸프PPT3](https://github.com/soycong/soycong/assets/62353647/70fa63e4-8341-4bd5-a297-610cd132dd38)
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 12" src="https://github.com/soycong/soycong/assets/62353647/6ab474c9-eb42-4ba8-9db1-1f2221e53016">
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 10" src="https://github.com/soycong/soycong/assets/62353647/426ca4b3-ecfc-4857-905d-4b261fbebb4f">
+<img width="1440" alt="스크린샷 2024-03-01 오후 8 24 08" src="https://github.com/soycong/soycong/assets/62353647/20cac4e2-689a-4d6d-b034-b9c752bd1a5b">
